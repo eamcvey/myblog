@@ -5,7 +5,7 @@ date: '2017-11-29'
 slug: the-complicated-emotional-life-of-a-woman-in-tech
 categories:
   - women in tech
-tags: []
+tags: [being-female]
 ---
 
 I am lucky.  My story is not the one that we're hearing over and over in the news, about a woman being manipulated and traumatized by men.  This story is about everything else - my internal experience of being female amongst men.  
