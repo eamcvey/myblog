@@ -12,7 +12,7 @@
 # For developpers, if you modify this theme, put your images in `source/images` folder and
 # use grunt task `build` to synchronize assets
 
-baseurl = ""
+baseurl = "http://datawoman.com"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "DataWoman"
@@ -42,8 +42,7 @@ canonifyurls = true
   picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
   # Your Twitter username without the @. E.g : thibaudlepretre
   twitter = "eamcvey"
-  # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
-  # googlePlus = "+ThibaudLepretre"
+
 
 # Menu Configuration
 [[menu.main]]
