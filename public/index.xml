@@ -6,10 +6,20 @@
     <description>Recent content on The How of Data Science</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 29 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Complicated Emotional Life of a Woman in Tech</title>
+      <link>/2017/11/the-complicated-emotional-life-of-a-woman-in-tech/</link>
+      <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/11/the-complicated-emotional-life-of-a-woman-in-tech/</guid>
+      <description>I am lucky. My story is not the one that we&amp;rsquo;re hearing over and over in the news, about a woman being manipulated and traumatized by men. This story is about everything else - my internal experience of being female amongst men.
+Early in my life as a student and 20-something professional, gender never seemed to matter. The issues of my mother&amp;rsquo;s generation in which women had to fight for respect in fields other than teaching or nursing seemed to be over.</description>
+    </item>
     
     <item>
       <title>Hello R Markdown</title>
@@ -139,6 +149,15 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <guid>/2013/01/japanese-test/</guid>
       <description>&lt;p&gt;This is a Japanese test post to show you how japanese is displayed.
 &lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/1/01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/1/01/</guid>
+      <description>The Complicated Emotional Life of a Woman in Tech       code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs &amp;&amp; document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
     </item>
     
   </channel>

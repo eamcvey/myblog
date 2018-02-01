@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/2017/11/the-complicated-emotional-life-of-a-woman-in-tech/</loc>
+    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2015/07/hello-r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
@@ -65,6 +70,10 @@
   <url>
     <loc>/2013/01/japanese-test/</loc>
     <lastmod>2013-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/1/01/</loc>
   </url>
   
   <url>
@@ -175,7 +184,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -241,7 +250,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -260,6 +269,12 @@
   <url>
     <loc>/tags/vimeo/</loc>
     <lastmod>2014-08-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/women-in-tech/</loc>
+    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
