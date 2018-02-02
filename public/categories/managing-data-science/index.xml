@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data Woman: Making Data Science Happen</title>
-    <link>/</link>
-    <description>Recent content on Data Woman: Making Data Science Happen</description>
+    <title>Managing Data Science on Data Woman: Making Data Science Happen</title>
+    <link>/categories/managing-data-science/</link>
+    <description>Recent content in Managing Data Science on Data Woman: Making Data Science Happen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/managing-data-science/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       <guid>/2018/02/the-pain-of-data-science-in-organizations/</guid>
       <description>Data science is high in the hype cycle and considered the sexiest job of the 21st century. But even as more and more companies add data science groups, we face some challenging realities.
 Managing a data science group often feels like an uphill battle from an organizational perspective. We face difficulty getting access to data, adding headcount to our teams, and being free to focus on the most impactful work. To better understand this, I sought out a dozen other data science managers and talked to them about their biggest challenges.</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>I manage the data science team at TransLoc, a transit technology company in Durham, NC. I have particular interests in:
- How to make data science functions work optimally within organizations Using data science and technology to be a force for good Data and the irrationality of human decision making All things R Women in tech  The current focus of the data science team I lead is on using simulation to help cities confidently design and operate algorithm-driven microtransit services.</description>
     </item>
     
   </channel>

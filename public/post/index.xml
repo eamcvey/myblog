@@ -6,28 +6,19 @@
     <description>Recent content in Posts on Data Woman: Making Data Science Happen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>The Complicated Emotional Life of a Woman in Tech</title>
-      <link>/2017/11/the-complicated-emotional-life-of-a-woman-in-tech/</link>
-      <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
+      <title>The Pain of Data Science in Organizations</title>
+      <link>/2018/02/the-pain-of-data-science-in-organizations/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2017/11/the-complicated-emotional-life-of-a-woman-in-tech/</guid>
-      <description>I am lucky. My story is not the one that we&amp;rsquo;re hearing over and over in the news, about a woman being manipulated and traumatized by men. This story is about everything else - my internal experience of being female amongst men.
-Early in my life as a student and 20-something professional, gender never seemed to matter. The issues of my mother&amp;rsquo;s generation in which women had to fight for respect in fields other than teaching or nursing seemed to be over.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/1/01/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/1/01/</guid>
-      <description>The Complicated Emotional Life of a Woman in Tech       code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs &amp;&amp; document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
+      <guid>/2018/02/the-pain-of-data-science-in-organizations/</guid>
+      <description>Data science is high in the hype cycle and considered the sexiest job of the 21st century. But even as more and more companies add data science groups, we face some challenging realities.
+Managing a data science group often feels like an uphill battle from an organizational perspective. We face difficulty getting access to data, adding headcount to our teams, and being free to focus on the most impactful work. To better understand this, I sought out a dozen other data science managers and talked to them about their biggest challenges.</description>
     </item>
     
   </channel>
