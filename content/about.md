@@ -8,7 +8,7 @@ thumbnailImage: //example.com/image.jpg
 
 I manage the data science team at [TransLoc](www.transloc.com), a mission-driven transit technology company in Durham, NC. I have particular interests in:
 
-* How to make data science functions work optimally within organizations
+* Building data science teams that have an impact on the organization
 * Using data science and technology to be [a force for good](https://datacolumn.wordpress.ncsu.edu/blog/2017/12/04/datalines-mcvey/)
 * Data and the irrationality of human decision making
 * All things R
