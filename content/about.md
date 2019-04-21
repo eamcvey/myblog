@@ -16,6 +16,4 @@ I manage the decision sciences team at [TransLoc](www.transloc.com), a mission-d
 
 I spend a lot of time thinking about how to make data science groups effective and have been drawing from Agile practices in this process.  I spoke about this at the RStudio Conference in February 2018.
 
-# The current focus of the data science team I lead is on [using simulation](https://www.fastcompany.com/40446331/this-new-simulator-helps-cities-test-a-future-of-on-demand-transit) to help cities confidently design and operate algorithm-driven microtransit services.  You can watch me talk about it [here](https://transloc.wistia.com/medias/7ui9vctdls).
-
 I spend my free time trail running, mountain biking, and keeping up with my two sons.
