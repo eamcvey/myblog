@@ -49,4 +49,4 @@ These three issues can keep data science teams from having the hoped-for impact.
 
 **As a maturing field, we need to take on the challenge of making data science work effectively within organizations.**
 
-Some of my thoughts about ways to do this by borrowing from Agile practices are in [this post](http://www.datawoman.com/2018/02/using-agile-to-change-the-data-science-conversation/).
+Some of my thoughts about ways to do this by borrowing from Agile practices are in [this post](https://www.datawoman.com/2018/02/using-agile-to-change-the-data-science-conversation/).

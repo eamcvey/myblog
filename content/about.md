@@ -6,7 +6,7 @@ showActions:    false
 thumbnailImage: //example.com/image.jpg
 ---
 
-I manage the decision sciences team at [TransLoc](www.transloc.com), a mission-driven transit technology company in Durham, NC. I have particular interests in:
+I manage the decision sciences team at [TransLoc](https://transloc.com/), a mission-driven transit technology company in Durham, NC. I have particular interests in:
 
 * Building analytics teams that have an impact on the organization
 * Using data science and technology to be [a force for good](https://datacolumn.wordpress.ncsu.edu/blog/2017/12/04/datalines-mcvey/)
