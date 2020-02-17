@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Data Woman: Making Data Science Happen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Using Agile to Change the Data Science Conversation</title>
+      <link>/2018/02/using-agile-to-change-the-data-science-conversation/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/02/using-agile-to-change-the-data-science-conversation/</guid>
+      <description>In my previous post, I described some of the root causes I believe cause common problems for data science teams. So what do we do?
+The problems facing data science are largely a function of the newness of data science groups to companies and other large organizations. Software development was once in a similar position. One way they addresses these problems was with the Agile approach. I believe we can borrow from this to address the challenges data science faces today.</description>
+    </item>
     
     <item>
       <title>The Pain of Data Science in Organizations</title>
@@ -17,8 +27,8 @@
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/02/the-pain-of-data-science-in-organizations/</guid>
-      <description>Data science is high in the hype cycle and considered the sexiest job of the 21st century. But even as more and more companies add data science groups, we face some challenging realities.
-Managing a data science group often feels like an uphill battle from an organizational perspective. We face difficulty getting access to data, adding headcount to our teams, and being free to focus on the most impactful work. To better understand this, I sought out a dozen other data science managers and talked to them about their biggest challenges.</description>
+      <description>It is the best of data science times, it is the worst of data science times&amp;hellip; Data science is high in the hype cycle and considered the sexiest job of the 21st century. Data scientists are in demand, and the tools to do our jobs are getting better by the month. It&amp;rsquo;s a great time to be in data science!
+However&amp;hellip; managing a data science group often feels like an uphill battle.</description>
     </item>
     
   </channel>
