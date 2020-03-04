@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Data Woman: Making Data Science Happen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>All Time Top 5 rstudio::conf Talks</title>
+      <link>/2020/02/top-5-rstudio-conf-talks-of-all-time/</link>
+      <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/02/top-5-rstudio-conf-talks-of-all-time/</guid>
+      <description>rstudio::conf is my very favorite conference. It’s welcoming and full of great people to connect with. (And the hex stickers are epic!) The quality of the presentations is excellent, and in addition to the ones I attend, I look forward to the videos being posted so I can watch ones I couldn’t get to.
+From all these great talks, a few have really stuck with me and impacted my thinking over time.</description>
+    </item>
     
     <item>
       <title>Using Agile to Change the Data Science Conversation</title>
