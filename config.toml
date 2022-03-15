@@ -27,14 +27,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   post = "/:year/:month/:slug/"
 
 [taxonomies]
-  tag = "tags"
-  category = "categories"
-  archive = "archives"
 
 [author]
   name = "Elaine McVey"
-  bio = "Data Science Manager"
-  job = "Director of Data Science"
+  bio = "Data Science Leader"
+  job = "VP of Data Science"
   location = "Chapel Hill, NC"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   gravatarEmail = "elaine.mcvey@gmail.com"
@@ -42,7 +39,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
   # picture = "https://res.cloudinary.com/eamcvey/image/upload/v1517526021/elaine_mcvey_headshot_2_zvbm6d.jpg"
   # Your Twitter username without the @. E.g : thibaudlepretre
-  twitter = "eamcvey"
+  #twitter = "eamcvey"
 
 
 # Menu Configuration
@@ -52,12 +49,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   name = "Home"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
   url = "/"
-[[menu.main]]
-  weight = 2
-  identifier = "categories"
-  name = "Categories"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
-  url = "/categories"
+
 [[menu.main]]
   weight = 4
   identifier = "about"
@@ -68,24 +60,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [[menu.links]]
   weight = 2
-  identifier = "twitter"
-  name = "Twitter"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-twitter\"></i>"
-  url = "https://twitter.com/eamcvey"
-[[menu.links]]
-  weight = 2
   identifier = "linkedin"
   name = "LinkedIn"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-linkedin\"></i>"
   url = "https://www.linkedin.com/in/eamcvey/"
-
-
-[[menu.misc]]
-  weight = 1
-  identifier = "rss"
-  name = "RSS"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-rss\"></i>"
-  url = "/index.xml"
 
 [params]
   # Customize date format use to render blog post date, categories and other

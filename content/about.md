@@ -6,7 +6,7 @@ showActions:    false
 thumbnailImage: //example.com/image.jpg
 ---
 
-I am the Director of Data Science at [The Looma Project](https://theloomaproject.com/) in Durham, NC. Previously, I led the Quantitative Mobility and Decision Science teams at [TransLoc](https://transloc.com/). I have particular interests in:
+I am the VP of Data Science at [The Looma Project](https://theloomaproject.com/) in Durham, NC. Previously, I led the Quantitative Mobility and Decision Science teams at [TransLoc](https://transloc.com/). I have particular interests in:
 
 * Building analytics teams that have an impact on the organization
 * Using data science and technology to be [a force for good](https://datacolumn.wordpress.ncsu.edu/blog/2017/12/04/datalines-mcvey/)
