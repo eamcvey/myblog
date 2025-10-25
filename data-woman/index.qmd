@@ -1,0 +1,21 @@
+---
+title: "Elaine McVey Houskeeper"
+about:
+  template: jolla
+  image: images/headshot.png
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/eamcvey/
+    # - icon: twitter-x
+    #   text: eamcvey
+    #   href: https://x.com/eamcvey
+---
+
+I'm the CEO at [EvE Bio](https://evebio.org/). We are scientific data generators, creating an open dataset that maps the activity of small molecule drugs against physiological "targets" (druggable human proteins). We refer to this as a pharmome map. Having spent decades as a data scientist trying to do great things with flawed data, I am delighted that EvE is focused on producing a high quality dataset as our primary goal. This is enabled by organizational innovation. We are a non-profit Focused Research Organization (FRO) under [Convergent Research](https://www.convergentresearch.org/), and were built specifically to carry out our pharmome mapping mission.
+
+I started my career at the bench in protein folding and cell biology labs. After a graduate degree in statistics, I worked at [BD](https://www.bd.com)'s R&D center as a data scientist across cell therapy, diabetes technology, and smart device programs. For the last decade, I've been establishing data science teams at startups in a variety of industries. My science, data, and business leadership experience has all come together in my role as CEO at EvE Bio. 
+
+My high school chemistry teacher used to say "your brain is in your pencil". I find writing to be more than a way to share my ideas; my thinking is refined through the process of writing. On this site I share my thoughts on technical topics related to data, AI, and science, as well as on human topics like working effectively within organizations and the experience of being a woman in leadership. Check out my argument for why scientists should vibe code, my keynote on guerilla data science practices, the photo of Jacinda Arden that brought tears to my eyes, how I think you should use metrics, and what I've learned lately about AI for science.
+
+Outside of work, my family keeps me humble and balanced. My two teenage sons do their best to keep me up to date with modern language and culture. My husband and I are perfecting the art of the weekend camping and mountain biking trip (or camping and snowboarding when we can get it in the Southeast!). My pit bull reminds me that people who sit in front of a computer for too long are boring and it's always a good time for a trail run.

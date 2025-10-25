@@ -1,0 +1,67 @@
+/*-- scss:defaults --*/
+
+// Import Montserrat font from Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
+
+// Color scheme
+$primary: #4a4a4a;
+$secondary: #a89f91;
+$accent: #d4845f;
+$light-purple: #f5f0f9;
+
+$body-bg: #ffffff;
+$body-color: #333333;
+$link-color: $accent;
+$link-hover-color: darken($accent, 15%);
+
+// Fonts
+$font-family-sans-serif: 'Montserrat', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+$headings-font-family: 'Montserrat', sans-serif;
+$headings-font-weight: 600;
+
+/*-- scss:rules --*/
+
+.navbar {
+  font-weight: 500;
+}
+
+.navbar-brand {
+  font-weight: 700;
+  font-size: 1.4em;
+}
+
+h1, h2, h3 {
+  color: $primary;
+}
+
+.hero-section {
+  background: linear-gradient(135deg, $light-purple 0%, #ffffff 100%);
+  padding: 4rem 0;
+  margin-bottom: 3rem;
+}
+
+.social-links {
+  font-size: 1.5em;
+  margin-top: 1.5rem;
+}
+
+.social-links a {
+  color: $primary;
+  margin: 0 0.8rem;
+  transition: color 0.3s ease;
+}
+
+.social-links a:hover {
+  color: $accent;
+}
+
+.btn-primary {
+  background-color: $accent;
+  border-color: $accent;
+  font-weight: 500;
+  
+  &:hover {
+    background-color: darken($accent, 10%);
+    border-color: darken($accent, 10%);
+  }
+}
