@@ -7,7 +7,7 @@ website:
   navbar:
     toggle-position: right
     background: "#f0eeeb"
-    title: false
+    title: true
     left:
       - text: "Data for Science"
         menu: 
