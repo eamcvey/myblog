@@ -4,6 +4,7 @@ project:
 website:
   title: "Data Woman"
   site-url: https://datawoman.com
+  favicon: favicon.svg
   navbar:
     toggle-position: right
     background: "#f0eeeb"
@@ -50,7 +51,7 @@ website:
           href: pages/jane-goodall.qmd
         - text: "The loneliness of onlyness"
           href: pages/onlyness.qmd
-        - text: "Jacinda Arden"
+        - text: "Jacinda Ardern"
           href: pages/asterisks.qmd
         - text: "Agile at home"
           href: pages/schario.qmd
