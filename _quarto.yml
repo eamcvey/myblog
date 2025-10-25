@@ -11,12 +11,12 @@ website:
     left:
       - text: "Data for Science"
         menu: 
-        - text: "Data as a goal"
-          href: pages/data-as-goal.qmd
+        # - text: "Data as a goal"
+        #   href: pages/data-as-goal.qmd
         - text: "Science AI in 2025"
           href: pages/ether0.qmd
-        - text: "Data for machine learning"
-          href: pages/hugging-face.qmd
+        # - text: "Data for machine learning"
+        #   href: pages/hugging-face.qmd
         - text: "Science AI in 2023"
           href: pages/ai-earlyeve.qmd
         - text: "It's the data, stupid"
@@ -27,8 +27,8 @@ website:
           href: pages/posit-keynote.qmd
         - text: "What metrics are for"
           href: pages/metrics-reality.qmd
-        - text: "Organizational innovation"
-          href: pages/fros.qmd
+        # - text: "Organizational innovation"
+        #   href: pages/fros.qmd
         - text: "Agile for data science"
           href: pages/agile-for-ds.qmd
         - text: "The pain of DS in orgs"
@@ -45,8 +45,8 @@ website:
           href: pages/simulation.qmd
       - text: "Women in Leadership"
         menu: 
-        - text: "Lady Gaga"
-          href: pages/lady-gaga.qmd
+        # - text: "Lady Gaga"
+        #   href: pages/lady-gaga.qmd
         - text: "Jane Goodall"
           href: pages/jane-goodall.qmd
         - text: "The loneliness of onlyness"
