@@ -6,7 +6,7 @@ categories:
   - making orgs work
 ---
 
-In my [this post](../pages/pain-of-ds.qmd), I described some of the root causes I believe cause common problems for data science teams.  So what do we do?
+In [this post](../pages/pain-of-ds.qmd), I described some of the root causes I believe cause common problems for data science teams.  So what do we do?
 
 The problems facing data science are largely a function of the newness of data science groups to companies and other large organizations.  Software development was once in a similar position.  One way they addresses these problems was with the Agile approach.  I believe we can borrow from this to address the challenges data science faces today.
 
@@ -67,4 +67,4 @@ Stakeholder reviews are best done on a regular cadence (at TransLoc we're doing 
 
 The challenges we face at this early stage of establishing data science groups will not be solved overnight, but I believe these Agile practices are one approach to helping us dissolve these barriers over time.  By focusing on the continuous delivery of value to end users, we draw the stakeholders in our organization in, and in the process learn more about how we can maximize our impact.
 
-![alt text](https://res.cloudinary.com/eamcvey/image/upload/v1517627699/agile-ds-diagram_gfkkde.png)
+![](https://res.cloudinary.com/eamcvey/image/upload/v1517627699/agile-ds-diagram_gfkkde.png)
