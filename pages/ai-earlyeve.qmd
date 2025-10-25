@@ -5,13 +5,12 @@ date-format: long
 format:
   html:
     toc: true
+    page-layout: article   # Better for margin notes
     grid:
-      sidebar-width: 0px
-      body-width: 800px      # Make body narrower
-      margin-width: 200px    # Give more space to margins
+      margin-width: 350px  # Customize margin size
 ---
 
-_Note from the future in 2025: this is an article I wrote as EvE was just coming into being in response to a request from our founding CEO to summarize the state of AI in drug development. Consider it a time capsule back to 2023 -- ages ago in the AI world!_
+_Note from the future (2025): this is an article I wrote as EvE was just coming into being in response to a request from our founding CEO to summarize the state of AI in drug development. Consider it a time capsule back to 2023 -- ages ago in the AI world!_
 
 ## The Magical Ingredients
 
