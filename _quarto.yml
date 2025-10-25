@@ -46,13 +46,11 @@ website:
         menu: 
         - text: "Lady Gaga"
           href: pages/lady-gaga.qmd
-        - text: "Jacinda Arden"
-          href: pages/jacinda.qmd
         - text: "Jane Goodall"
           href: pages/jane-goodall.qmd
         - text: "The loneliness of onlyness"
           href: pages/onlyness.qmd
-        - text: "Asterisks"
+        - text: "Jacinda Arden"
           href: pages/asterisks.qmd
         - text: "Agile at home"
           href: pages/schario.qmd
