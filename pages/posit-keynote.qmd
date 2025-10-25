@@ -1,3 +1,4 @@
 Prior to being a CEO, my specialty was establishing data science teams at startups. I was honored to share my learnings about this - and the guerilla data science tactics involved -- in a keynote talk at the Posit conference in 2023.
 
-{{< video https://www.youtube.com/embed/HTMvZWUTBug?si=Nsm_RfQA8hMpYtr1 >}}
+{{< video https://www.youtube.com/embed/HTMvZWUTBug?si=Nsm_RfQA8hMpYtr1 
+start="71">}}
