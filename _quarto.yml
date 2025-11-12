@@ -59,8 +59,8 @@ website:
         menu: 
         - text: "The bitter lesson"
           href: pages/bitter-lesson.qmd
-        - text: "The human side of AI"
-          href: pages/human-side-of-ai.qmd
+        # - text: "The human side of AI"
+        #   href: pages/human-side-of-ai.qmd
         - text: "What is an AI model, really?"
           href: pages/how-llms-work.qmd
   
