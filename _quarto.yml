@@ -41,8 +41,8 @@ website:
           href: pages/vibe-coding.qmd
         - text: "Chatbots"
           href: pages/methods-chatbot.qmd
-        - text: "Simulation as a tool"
-          href: pages/simulation.qmd
+        # - text: "Simulation as a tool"
+        #   href: pages/simulation.qmd
       - text: "Women in Leadership"
         menu: 
         # - text: "Lady Gaga"
@@ -59,8 +59,8 @@ website:
         menu: 
         - text: "The bitter lesson"
           href: pages/bitter-lesson.qmd
-        - text: "Reinforcement learning"
-          href: pages/reinforcement-learning.qmd
+        - text: "The human side of AI"
+          href: pages/human-side-of-ai.qmd
         - text: "What is an AI model, really?"
           href: pages/how-llms-work.qmd
   

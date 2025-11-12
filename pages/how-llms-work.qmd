@@ -1,0 +1,5 @@
+What is an AI model under the hood? Basically, just layers of many matrices of numbers that get updated many, many times (matrices - remember linear algebra?). As we wonder at the power of modern AI tools, it's great to get a tangible sense of what they _are_ and what training a model really does.
+
+This is a great 7 minute video from 3Blue1Brown that explains it with helpful visuals. If you want to go deeper, there is a YouTube series on this channel that has more details on each component.
+
+{{< video https://www.youtube.com/embed/LPZh9BOjkQs?si=56MitRU6XKtn7e4f >}}

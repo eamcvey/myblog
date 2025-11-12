@@ -10,7 +10,7 @@ format:
       margin-width: 350px  # Customize margin size
 ---
 
-_Note from the future (2025): this is an article I wrote as EvE was just coming into being in response to a request from our founding CEO to summarize the state of AI in drug development. Consider it a time capsule back to 2023 -- ages ago in the AI world!_
+_Note from the future (2025): this is an article I wrote for the founding team as EvE was just coming into being on the state of AI and its implications for drug development. Consider it a time capsule back to 2023 -- ages ago in the AI world!_
 
 ## The Magical Ingredients
 

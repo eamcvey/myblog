@@ -1,0 +1,12 @@
+For AI developers, there has been a pattern of humbling experiences, even before the modern AI era that Rich Sutton eloquently dubbed "the bitter lesson".
+
+<iframe src="http://www.incompleteideas.net/IncIdeas/BitterLesson.html" width="100%" height="400px" style="border: 3px solid #ccc;"></iframe>
+(http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
+
+To get a tangible sense of how this plays out, watch this video from OpenAI showing how little hide-and-seek playing agents learned new strategies -- including some that the humans had not anticipated!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kopoLzvh5jY?si=N7EXUx_XZ_RxoNlt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Another perspective on the experience of humans grappling with the power of AI comes from this fascinating documentary about AlphaGo the AI playing against the reigning Go champion. It provides a window into the experience of the AI developers as well as the players and spectators watching this test of the unique abilities of the human mind.
+
+{{< video https://www.youtube.com/watch?v=WXuK6gekU1Y >}}
