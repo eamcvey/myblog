@@ -1,5 +1,18 @@
----
-title: Serverless data applications
----
+# Serverless Data Apps
 
-[EvE Bio's Data Explorer](https://data.evebio.org/data_explorer.php#results)
+It's not unusual to follow a link from a scientific publication only to arrive at a page for a once useful web application that no longer functions or exists -- presumably because funding for the project has expired and the person who maintained the app is no longer working on it.
+
+With this in mind, and particularly since Focused Research Organizations like EvE Bio are not designed to exist indefinitely, we tried to avoid having the data application we built ever ending up in this situation. Fortunately, a set of relatively new technologies provide a new way to create serverless interactive data apps. What began as a hypothesis that this could work has been proven out over the last year in [EvE Bio's Data Explorer](https://data.evebio.org/data_explorer.php#results), which is available to the public.
+
+The tech stack for this application is DuckDB, WebAssembly (WASM), Quarto, and Observable JS, all of which are open source and freely available. The end result is a responsive app for data exploration that doesn't require a backend server. It exists as a set of files that are uploaded to EvE's website, and everything runs locally in the user's browser. The app was built by a data scientist and requires no maintenance or monitoring unless new data needs to be added. This reduces the infrastructure cost, the labor cost, and the expertise needed to transition this to a new location (just copying a set of files).
+
+This is the role of each part of the stack:
+
++ [DuckDB](https://duckdb.org/) allows for a set of data files in familiar formats to be used as a fast, lightweight analytical database
++ WASM makes it possible for DuckDB to work directly in the browser
++ [Quarto](https://quarto.org/) is a technical publishing platform that combines code and text into website form
++ [Observable JS](https://quarto.org/docs/computations/ojs.html) provides a reactive framework to support user interaction
+
+Since WASM is bundled with DuckDB, and Observable is part of Quarto via `ojs` cells, only two tools -- Quarto and DuckDB-WASM -- need to be handled by the developer. We have been encouraged by the success of this approach and hope it provides inspiration for other apps using this stack.
+
+

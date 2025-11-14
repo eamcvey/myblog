@@ -19,8 +19,8 @@ website:
         #   href: pages/hugging-face.qmd
         - text: "Science AI in 2023"
           href: pages/ai-earlyeve.qmd
-        - text: "It's the data, stupid"
-          href: pages/the-data-stupid.qmd
+        # - text: "It's the data, stupid"
+        #   href: pages/the-data-stupid.qmd
       - text: "Making Orgs Work"
         menu: 
         - text: "Starting up data science"
@@ -39,8 +39,8 @@ website:
           href: pages/serverless-apps.qmd
         - text: "Why vibe coding"
           href: pages/vibe-coding.qmd
-        - text: "Chatbots"
-          href: pages/methods-chatbot.qmd
+        # - text: "Chatbots"
+        #   href: pages/methods-chatbot.qmd
         # - text: "Simulation as a tool"
         #   href: pages/simulation.qmd
       - text: "Women in Leadership"
