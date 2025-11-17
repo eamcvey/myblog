@@ -23,10 +23,10 @@ website:
         #   href: pages/the-data-stupid.qmd
       - text: "Making Orgs Work"
         menu: 
-        - text: "Starting up data science"
-          href: pages/posit-keynote.qmd
         - text: "What metrics are for"
           href: pages/metrics-reality.qmd
+        - text: "Starting up data science"
+          href: pages/posit-keynote.qmd
         # - text: "Organizational innovation"
         #   href: pages/fros.qmd
         - text: "Agile for data science"
@@ -43,21 +43,21 @@ website:
         #   href: pages/methods-chatbot.qmd
         # - text: "Simulation as a tool"
         #   href: pages/simulation.qmd
-      - text: "Women in Leadership"
-        menu: 
-        # - text: "Lady Gaga"
-        #   href: pages/lady-gaga.qmd
-        - text: "Jane Goodall"
-          href: pages/jane-goodall.qmd
-        - text: "The loneliness of onlyness"
-          href: pages/onlyness.qmd
-        - text: "Jacinda Ardern"
-          href: pages/asterisks.qmd
-        - text: "Agile at home"
-          href: pages/schario.qmd
+      # - text: "Women in Leadership"
+      #   menu: 
+      #   # - text: "Lady Gaga"
+      #   #   href: pages/lady-gaga.qmd
+      #   - text: "Jane Goodall"
+      #     href: pages/jane-goodall.qmd
+      #   - text: "The loneliness of onlyness"
+      #     href: pages/onlyness.qmd
+      #   - text: "Jacinda Ardern"
+      #     href: pages/asterisks.qmd
+      #   - text: "Agile at home"
+      #     href: pages/schario.qmd
       - text: "The nature of AI"
         menu: 
-        - text: "The bitter lesson"
+        - text: "The human experience"
           href: pages/bitter-lesson.qmd
         # - text: "The human side of AI"
         #   href: pages/human-side-of-ai.qmd

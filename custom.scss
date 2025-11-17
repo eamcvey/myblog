@@ -14,6 +14,10 @@ $body-color: #333333;
 $link-color: $accent;
 $link-hover-color: darken($accent, 15%);
 
+code:not(.sourceCode) {
+  color: #d4845f;
+}
+
 // Fonts
 $font-family-sans-serif: 'Montserrat', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 $headings-font-family: 'Montserrat', sans-serif;
