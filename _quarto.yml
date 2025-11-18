@@ -5,6 +5,8 @@ website:
   title: "Data Woman"
   site-url: https://datawoman.com
   favicon: favicon.svg
+  google-analytics:
+    tracking-id: "G-MLQQ33SDSV"
   navbar:
     toggle-position: right
     background: "#f0eeeb"
