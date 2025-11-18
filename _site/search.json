@@ -201,5 +201,12 @@
     "title": "Why scientists should vibe code",
     "section": "",
     "text": "Use AI for things where you can check the results quickly and reliably (like data visualization)\nDo one step at a time, iteratively\nProvide context and describe what you want\nAsk Claude how you can check things\nRead the explanations of what it’s doing\nIf you get an error when running code, send it to Claude for troubleshooting\nBe persistent; doing this well takes some practice"
+  },
+  {
+    "objectID": "pages/ether0.html",
+    "href": "pages/ether0.html",
+    "title": "Data Woman",
+    "section": "",
+    "text": "One of EvE’s founding hypotheses was that comprehensive pharmome data could serve as the experimental foundation for developing AI models for science. I was thrilled to see this put into practice by FutureHouse, where they leveraged EvE’s dataset as part of the training and validation of ether0, their chemistry-focused reasoning model. This work revealed an important insight: modern domain-specific AI models can be trained with remarkable data efficiency. By building on existing capabilities like AI reasoning and optimizing the approach for the nature of the task at hand, exceptional science models can be developed with data that’s within our reach."
   }
 ]
